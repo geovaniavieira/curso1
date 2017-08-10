@@ -1,24 +1,25 @@
 h2{
     background-color:#5599dd;
     color:#dddddd
-     padding-top:5xp;
-     padding:10px;
-        }
-         .exp{
-            text-indent:50px;
-        }
-         #email{
-            text-descoration:underline;
-            font-style:italic;
-        }
-         body{
-           font-family:serif;
-             width:1899px;
-             margin-reght:auto;
-             margin-left:auto;
-        }
+    padding-top:5xp;
+    padding-left:10px;
+}
+.exp{
+    text-indent:50px;
+}
+#email{
+    text-descoration:underline;
+    font-style:italic;
+}
+body{
+    font-family:Arial;
+    width:1899px;
+    margin-reght:auto;
+    margin-left:auto;
+}
 
-         #cabecalho{
-             text-aling:center;
+#cabecalho{
+    text-aling:center;
+    margin-right: 10px;
  }
 
